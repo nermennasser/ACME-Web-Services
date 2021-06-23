@@ -1,0 +1,87 @@
+.branding{
+    font-size: 17px;
+}
+.showcase{
+    background:url("E:/Full Stack .NET ITI 3 Month/projects after iti/Front end and back end projects/acme_w3css/img/4.jpg") no-repeat;
+    background-position:  center;
+    padding: 140px 100px;
+    height: 650px;
+    color: #fff;
+}
+.showcase h1{
+    font-size: 40px;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+.showcase hr{
+    width: 100px;
+    margin: auto;
+    border-width: 3px;
+    border-color: #f44336;
+}
+.showcase p{
+    padding-bottom: 20px;
+    font-size: 16px;
+}
+.section{
+    padding: 40px 0;
+}
+.section h2{
+    padding:0;
+    margin:0;
+}
+.section .fa{
+    font-size: 50px;
+}
+.section img{
+    width: 100%;
+}
+@media only screen and (max-width:600px){
+    body{
+        margin-top: 200px;
+    }
+    .showcase{
+        height: 400px;
+        padding: 60px 0;
+    }
+}
+#formcontact{
+    margin: 10px;
+    padding: 0px;
+}
+footer{
+    padding-bottom: 30px;
+}
+.fab{
+    font-size: 20px;
+}
+#modalfooter{
+margin: 0;
+padding:0;
+height: 40px;
+}
+#btnlogin{
+    background-color: white;
+}
+#btnsign{
+    background-color: red;
+}
+#hrmodal{
+    width: 200px;
+    margin: auto;
+
+}
+#model1{
+margin-top: 0;
+}
+
+.field-icon {
+    float: right;
+    margin-left: -10px;
+    margin-top: -35px;
+    position: relative;
+    z-index: 2;
+    font-size: 30px;
+  }
+  
+  
