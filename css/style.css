@@ -2,7 +2,7 @@
     font-size: 17px;
 }
 .showcase{
-    background:url("E:/Full Stack .NET ITI 3 Month/projects after iti/Front end and back end projects/acme_w3css/img/4.jpg") no-repeat;
+    background:url("../img/4.jpg") no-repeat;
     background-position:  center;
     padding: 140px 100px;
     height: 650px;
